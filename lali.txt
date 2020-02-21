@@ -1,3 +1,4 @@
 dddd
 1st chnge
-master change2
+
+resolving master change2 merging conflict
